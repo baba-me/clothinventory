@@ -1,0 +1,13 @@
+c:\users\sadaqat\documents\visual studio 2013\Projects\barcoder\barcoder\bin\Debug\barcoder.exe.config
+c:\users\sadaqat\documents\visual studio 2013\Projects\barcoder\barcoder\bin\Debug\barcoder.exe
+c:\users\sadaqat\documents\visual studio 2013\Projects\barcoder\barcoder\bin\Debug\barcoder.pdb
+c:\users\sadaqat\documents\visual studio 2013\Projects\barcoder\barcoder\obj\Debug\barcoder.csprojResolveAssemblyReference.cache
+c:\users\sadaqat\documents\visual studio 2013\Projects\barcoder\barcoder\obj\Debug\barcoder.Form1.resources
+c:\users\sadaqat\documents\visual studio 2013\Projects\barcoder\barcoder\obj\Debug\barcoder.Properties.Resources.resources
+c:\users\sadaqat\documents\visual studio 2013\Projects\barcoder\barcoder\obj\Debug\barcoder.csproj.GenerateResource.Cache
+c:\users\sadaqat\documents\visual studio 2013\Projects\barcoder\barcoder\obj\Debug\barcoder.exe
+c:\users\sadaqat\documents\visual studio 2013\Projects\barcoder\barcoder\obj\Debug\barcoder.pdb
+C:\Users\sadaqat\documents\visual studio 2013\Projects\barcoder\barcoder\bin\Debug\IronBarCode.dll
+C:\Users\sadaqat\documents\visual studio 2013\Projects\barcoder\barcoder\bin\Debug\IronBarCode.xml
+C:\Users\sadaqat\Documents\Visual Studio 2013\Projects\barcoder\barcoder\bin\Debug\messagingtoolkit.barcode.dll
+C:\Users\sadaqat\Documents\Visual Studio 2013\Projects\barcoder\barcoder\obj\Debug\barcoder.Form2.resources
